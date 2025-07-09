@@ -1,2 +1,2 @@
 # House-price-prediction
-predict the house prie
+predict the house price
